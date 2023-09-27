@@ -1,0 +1,7 @@
+C:\Users\Никита\source\repos\Palindrome_Number\Palindrome_Number\bin\Debug\Palindrome_Number.exe.config
+C:\Users\Никита\source\repos\Palindrome_Number\Palindrome_Number\bin\Debug\Palindrome_Number.exe
+C:\Users\Никита\source\repos\Palindrome_Number\Palindrome_Number\bin\Debug\Palindrome_Number.pdb
+C:\Users\Никита\source\repos\Palindrome_Number\Palindrome_Number\obj\Debug\Palindrome_Number.csproj.AssemblyReference.cache
+C:\Users\Никита\source\repos\Palindrome_Number\Palindrome_Number\obj\Debug\Palindrome_Number.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\Palindrome_Number\Palindrome_Number\obj\Debug\Palindrome_Number.exe
+C:\Users\Никита\source\repos\Palindrome_Number\Palindrome_Number\obj\Debug\Palindrome_Number.pdb
